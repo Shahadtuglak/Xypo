@@ -1,0 +1,104 @@
+.row {
+    width: 100% !important;
+}
+
+h1,
+h2 {
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.features {
+    text-align: center !important;
+}
+
+
+nav {
+    padding: 0 20px;
+}
+
+/* Contact Section */
+
+.contact {
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 10rem;
+}
+
+/* Icons Section */
+
+.row {
+    width: 100%;
+}
+
+.youtube {
+    margin-right: 10rem;
+}
+
+.gallery {
+    padding: 5% 5%;
+    height: 900px;
+    width: 900px;
+}
+
+@media(max-width:600px) {
+    .gallery {
+        padding: 5% 5%;
+        height: 500px;
+        width: 450px;
+    }
+}
+
+.copy {
+    height: 100px;
+    width: 100px;
+}
+
+#visit {
+    text-align: center;
+    padding: 4rem;
+}
+
+#about {
+    text-align: center;
+    padding: 4rem;
+}
+
+#pricing {
+    margin-top: 2rem;
+}
+
+/*social icons*/
+.social {
+    height: 50px;
+    width: 50px;
+
+}
+
+
+/*contact form*/
+.form-group {
+    margin: 1rem;
+}
+
+.btn-primary {
+    margin: 1rem;
+}
+
+label {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder !important;
+}
+
+/*Footer*/
+footer {
+    text-align: center;
+    margin: 3rem;
+}
+
+@media(max-width:600px) {
+    #about {
+        padding: 1px;
+    }
+}
